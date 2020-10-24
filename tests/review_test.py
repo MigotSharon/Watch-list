@@ -1,5 +1,5 @@
 import unittest
-from models import Review
+from app.models import Review
 
 class TestReview(unittest.TestCase):
 
